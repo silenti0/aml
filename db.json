@@ -1,22 +1,22 @@
 {
   "posts": [
     {
-      "id": "abc",
+      "cf": "QNLNTN83B08F799A",
       "classe": 1
     }
     ,
         {
-      "id": "def",
+      "cf": "QNLNTN83B08F799B",
       "classe": 1
     }
     ,
         {
-      "id": "ghi",
+      "cf": "QNLNTN83B08F799C",
       "classe": 1
     }
     ,
         {
-      "id": "lmn",
+      "cf": "lmn",
       "classe": 1
     }
   ]
