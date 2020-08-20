@@ -1,23 +1,26 @@
 {
   "posts": [
-    {
-      "cf": "QNLNTN83B08F799A",
-      "classe": 1
-    }
-    ,
-        {
-      "cf": "QNLNTN83B08F799B",
-      "classe": 1
-    }
-    ,
-        {
-      "cf": "QNLNTN83B08F799C",
-      "classe": 1
-    }
-    ,
-        {
-      "cf": "lmn",
-      "classe": 1
-    }
+      { "id": "PTRMHL79L26G793A", "classe": 1 },
+      { "id": "PTRTHL71L26G893A", "classe": 1 },
+      { "id": "VTRVHL79L26G793A", "classe": 1 },
+      { "id": "TSTSMN98M25F839V", "classe": 1 },
+      { "id": "CTDMDL12A23E321Q", "classe": 2 },
+      { "id": "CTDMDL12B23E321Q", "classe": 2 },
+      { "id": "CTDMDL12C23E321Q", "classe": 2 },
+      { "id": "DTANTA76C25H926M", "classe": 2 },
+      { "id": "QNLNTN83B08F799A", "classe": 2 },
+      { "id": "CSTMRZ40E01H501Q", "classe": 3 },
+      { "id": "RCCNCL82B22H294Y", "classe": 3 },
+      { "id": "DGSMRA71C20H501N", "classe": 3 },
+      { "id": "FGNFBA85C08G273N", "classe": 3 },
+      { "id": "DCSMRA67A01H501G", "classe": 3 },
+      { "id": "DGSMRA71C26H501N", "classe": 3 },
+      { "id": "RSSJNR83C06F839S", "classe": 3 },
+      { "id": "RSSGLC80A01H501M", "classe": 4 },
+      { "id": "trimsm76c25h926y", "classe": 4 },
+      { "id": "qnlntn83b08f799a", "classe": 4 },
+      { "id": "GMBMNA06R22L219P", "classe": 4 },
+      { "id": "QNLNTN83B08Z133J", "classe": 4 },
+      { "id": "qnltnt83b08f799y", "classe": 4 }
   ]
 }
