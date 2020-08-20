@@ -1,8 +1,23 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "abc",
+      "classe": 1
+    }
+    ,
+        {
+      "id": "def",
+      "classe": 1
+    }
+    ,
+        {
+      "id": "ghi",
+      "classe": 1
+    }
+    ,
+        {
+      "id": "lmn",
+      "classe": 1
     }
   ]
 }
