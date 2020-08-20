@@ -1,13 +1,11 @@
 {
   "posts": [
     {
-      "id": "abc,
-      "classe": "1"
-    },
-
-    {
-      "id": "def,
-      "classe": "2"
-    }      
-  ]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
