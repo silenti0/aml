@@ -1,11 +1,13 @@
-[
+{
+  "posts": [
     {
-      "id": "abc",
+      "id": "abc,
       "classe": "1"
-    }
-  ,
+    },
+
     {
-      "id": "def",
+      "id": "def,
       "classe": "2"
-    }
-]
+    }      
+  ]
+}
